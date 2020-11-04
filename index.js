@@ -1,4 +1,5 @@
 window.onload = function() {
+    alert('We need to access your location to show result based on your location');
     let startPos;
     let geoSuccess = function(position) {
         startPos = position;
