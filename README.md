@@ -5,3 +5,6 @@
 ## 4.Now Send the phishing link to victim.. Now it will ask to allow location . When victim press allow all the details will be sent to your mail and logs are saved as logs.txt
 ## Disclaimer :
 ### Use this only for educational puropose..I am not responsible for your actions
+
+# How Does it Works???
+## It Uses Your Device Gps to get accurate location and send those data to your email
